@@ -6,7 +6,6 @@ Sveučilište u Zagrebu<br>
 2015./2016.
 
 # Tema projekta: Crveno-crno stablo - dodavanje i brisanje čvorova 
-# Project theme: Red-black tree node adding and removing
 
 
 (c) 2016 Josip Milić
@@ -17,9 +16,6 @@ Datum: **02.11.2015.**<br>
 
 ###Opis projekta:
 ####Program čita niz prirodnih brojeva iz datoteke i dodaje ih u ili briše iz crveno-crnog stabla.
-
-###Project description:
-####Program reads a series of natural numbers from file and adds them or remove them from red-black tree.
 
 Više informacija u dokumentaciji: https://github.com/josip-milic/NASP-red-black-Tree/blob/master/NASP-LAB1-RB_Stablo-Josip_Milic_0036456339-dokumentacija.pdf
 
