@@ -1,30 +1,31 @@
-University of Zagreb<br>
-Faculty of Electrical Engineering and Computing
+Sveučilište u Zagrebu<br>
+<a href="http://www.fer.unizg.hr">Fakultet elektrotehnike i računarstva</a>
 
-# Advanced Alghoritms and Data Structures
-
-<a href="http://www.fer.unizg.hr/predmet/nasp">http://www.fer.unizg.hr/predmet/nasp</a>
+# <a href="http://www.fer.unizg.hr/predmet/nasp">Napredni algoritmi i strukture podataka</a>
 
 2015./2016.
 
-# Exercise theme: Red-black tree node adding and removing
+# Tema projekta: Crveno-crno stablo - dodavanje i brisanje čvorova 
+# Project theme: Red-black tree node adding and removing
 
 
 (c) 2016 Josip Milić
 
-*Version 1.0*
+*Verzija 1.0*
 
-Date: **02.11.2015.**<br>
+Datum: **02.11.2015.**<br>
 
-###Exercise description:
+###Opis projekta:
+####Program čita niz prirodnih brojeva iz datoteke i dodaje ih u ili briše iz crveno-crnog stabla.
+
+###Project description:
 ####Program reads a series of natural numbers from file and adds them or remove them from red-black tree.
 
-More information in the documentation (warning: written in Croatian): https://github.com/josip-milic/NASP-red-black-Tree/blob/master/NASP-LAB1-RB_Stablo-Josip_Milic_0036456339-dokumentacija.pdf
+Više informacija u dokumentaciji: https://github.com/josip-milic/NASP-red-black-Tree/blob/master/NASP-LAB1-RB_Stablo-Josip_Milic_0036456339-dokumentacija.pdf
 
+Programski jezik: C#
 
-Programming language: C#
-
-User interface:
+Opis korisničkog sučelja:
 
 <img src="https://github.com/josip-milic/NASP-red-black-Tree/blob/master/Slike/nasp_lab1_gui_1.png"></img>
 
