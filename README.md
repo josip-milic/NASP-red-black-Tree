@@ -17,7 +17,7 @@ Datum: **02.11.2015.**<br>
 ###Opis projekta:
 ####Program čita niz prirodnih brojeva iz datoteke i dodaje ih u ili briše iz crveno-crnog stabla.
 
-Više informacija u dokumentaciji: https://github.com/josip-milic/NASP-red-black-Tree/blob/master/NASP-LAB1-RB_Stablo-Josip_Milic_0036456339-dokumentacija.pdf
+Više informacija u <a href="https://github.com/josip-milic/NASP-red-black-Tree/blob/master/NASP-LAB1-RB_Stablo-Josip_Milic_0036456339-dokumentacija.pdf">dokumentaciji.</a>
 
 Programski jezik: C#
 
