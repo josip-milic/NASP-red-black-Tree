@@ -1,0 +1,10 @@
+c:\users\josip\documents\visual studio 2015\Projects\RedBlackTreeProject\RedBlackTreeProject\bin\Debug\RedBlackTreeProject.exe.config
+C:\Users\Josip\Documents\Visual Studio 2015\Projects\RedBlackTreeProject\RedBlackTreeProject\bin\Debug\RedBlackTreeProject.exe
+C:\Users\Josip\Documents\Visual Studio 2015\Projects\RedBlackTreeProject\RedBlackTreeProject\bin\Debug\RedBlackTreeProject.pdb
+C:\Users\Josip\Documents\Visual Studio 2015\Projects\RedBlackTreeProject\RedBlackTreeProject\obj\Debug\RedBlackTreeProject.csprojResolveAssemblyReference.cache
+C:\Users\Josip\Documents\Visual Studio 2015\Projects\RedBlackTreeProject\RedBlackTreeProject\obj\Debug\RedBlackTreeProject.RBTreeForm.resources
+C:\Users\Josip\Documents\Visual Studio 2015\Projects\RedBlackTreeProject\RedBlackTreeProject\obj\Debug\RedBlackTreeProject.Properties.Resources.resources
+C:\Users\Josip\Documents\Visual Studio 2015\Projects\RedBlackTreeProject\RedBlackTreeProject\obj\Debug\RedBlackTreeProject.csproj.GenerateResource.Cache
+C:\Users\Josip\Documents\Visual Studio 2015\Projects\RedBlackTreeProject\RedBlackTreeProject\obj\Debug\RedBlackTreeProject.exe
+C:\Users\Josip\Documents\Visual Studio 2015\Projects\RedBlackTreeProject\RedBlackTreeProject\obj\Debug\RedBlackTreeProject.pdb
+C:\Users\Josip\documents\visual studio 2015\Projects\RedBlackTreeProject\RedBlackTreeProject\obj\Debug\RedBlackTreeProject.RBTreeStepsForm.resources
