@@ -19,12 +19,14 @@ Date: **02.11.2015.**<br>
 ###Exercise description:
 ####Program reads a series of natural numbers from file and adds them or remove them from red-black tree.
 
-More information in the documentation (warning: written in Croatian): https://github.com/josip-milic/TAR-project-Tweet-classification/blob/master/paper/TAR_Project_2016_Supervised_tweet_classification_paper_v1.0.pdf
+More information in the documentation (warning: written in Croatian): https://github.com/josip-milic/NASP-red-black-Tree/blob/master/NASP-LAB1-RB_Stablo-Josip_Milic_0036456339-dokumentacija.pdf
 
 
 Programming language: C#
 
 User interface:
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/70px-Cc.logo.circle.svg.png"></img>
 
 <ol>
 <li>Putanje datoteke za dodavanje/brisanje brojeva.</li>
