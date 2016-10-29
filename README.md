@@ -26,7 +26,7 @@ Programming language: C#
 
 User interface:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/70px-Cc.logo.circle.svg.png"></img>
+<img src="https://github.com/josip-milic/NASP-red-black-Tree/blob/master/Slike/nasp_lab1_gui_1.png"></img>
 
 <ol>
 <li>Putanje datoteke za dodavanje/brisanje brojeva.</li>
@@ -42,3 +42,5 @@ User interface:
 <li>Brisanje svih čvorova stabla.</li>
 <li>Gumb za dodavanje/brisanje sljedećeg broja.</li>
 </ol>
+
+<img src="https://github.com/josip-milic/NASP-red-black-Tree/blob/master/Slike/nasp_lab1_gui_2.png"></img>
